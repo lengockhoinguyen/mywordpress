@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lamborghini aventador ultimate &#8211; My wordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/lamborghini-aventador-ultimate/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lengockhoinguyen.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 25 Sep 2021 10:36:54 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>LAMBORGHINI AVENTADOR ULTIMATE</title>
+		<link>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-aventador-ultimate/</link>
+					<comments>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-aventador-ultimate/#respond</comments>
+		
+		<dc:creator><![CDATA[lengockhoinguyen]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 11:14:38 +0000</pubDate>
+				<guid isPermaLink="false">https://lengockhoinguyen.github.io/mywordpress/?post_type=product&#038;p=224</guid>
+
+					<description><![CDATA[<em>LP780-4 Ultimae tập trung những tính năng thuần tuý của dòng Aventador. Siêu xe mới thừa hưởng hiệu suất từ SVJ, ngoại hình từ Aventador S và tính năng động từ cả hai dòng coupe và roadster.</em>
+
+<em>Bản Ultimae sử dụng hệ thống lái 4 bánh, tương tự Aventador S, giúp linh hoạt ở tốc độ thấp và trung bình, tăng cường độ ổn định ở tốc độ cao</em>]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Chỉ sản xuất 600 chiếc</li>
+<li>trang bị động cơ 6.5 V12 lắp dọc</li>
+<li>công suất 780 mã lực tại 8.500 vòng/phút</li>
+<li>mô-men xoắn cực đại 720 Nm tại 6.750 vòng</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-aventador-ultimate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lamborghini huracan super trofeo evo2 &#8211; My wordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/lamborghini-huracan-super-trofeo-evo2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lengockhoinguyen.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 25 Sep 2021 10:30:37 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>LAMBORGHINI HURACAN SUPER TROFEO EVEO 2</title>
+		<link>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-huracan-super-trofeo-eveo-2/</link>
+					<comments>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-huracan-super-trofeo-eveo-2/#respond</comments>
+		
+		<dc:creator><![CDATA[lengockhoinguyen]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 11:45:17 +0000</pubDate>
+				<guid isPermaLink="false">https://lengockhoinguyen.github.io/mywordpress/?post_type=product&#038;p=240</guid>
+
+					<description><![CDATA[<em>Khởi động với ngoại thất, đầu xe Lamborghini Huracan Super Trofeo EVO2 hầm hố hơn hẳn với dàn đèn pha LED mảnh mai và hốc gió giống Sian cùng cánh gió mô phỏng từ Huracan STO. Lùi xuống một chút là các hốc gió hông được bổ sung và cánh gió sau chế tác từ sợi carbon. </em>]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>công suất tối đa 620 mã lực</li>
+<li>khối động cơ V10</li>
+<li>dung tích 5.2L hút khí tự nhiên</li>
+<li>hộp số tuần tự 6 cấp truyền năng lượng động cơ tới trục sau</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-huracan-super-trofeo-eveo-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

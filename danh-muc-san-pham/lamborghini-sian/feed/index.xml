@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lamborghini sian &#8211; My wordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/lamborghini-sian/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lengockhoinguyen.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 25 Sep 2021 11:05:34 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Lamborghini Sian</title>
+		<link>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-sian/</link>
+					<comments>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-sian/#respond</comments>
+		
+		<dc:creator><![CDATA[lengockhoinguyen]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 06:26:40 +0000</pubDate>
+				<guid isPermaLink="false">https://lengockhoinguyen.github.io/mywordpress/?post_type=product&#038;p=169</guid>
+
+					<description><![CDATA[<em>Lamborghini Sian là dòng siêu xe động cơ lai (hybrid) hoàn toàn mới của hãng siêu xe Automobili Lamborghini S.p.A, Italy. Chính thức được ra mắt trong tháng 09-2019 tại triển lãm ô tô quốc tế IAA Frankfurt Motor Show 2019, Sian chỉ được sản xuất hạn chế 63 chiếc cho bản Coupe và 19 chiếc bản Roadster.</em>
+
+<em>Tuy vừa ra mắt nhưng theo thông tin của hãng xe thì cả 63 chiếc Sian FKP 37 và 19 chiếc Sian Roadster đều đã được bán hết.</em>]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Tốc độ tối đa : 819 mã lực</li>
+<li>Động cơ : V12 6.5L</li>
+<li>Hộp số : AT</li>
+<li>Dung tích (cc): 6.498</li>
+<li>chỗ ngồi : 2</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-sian/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

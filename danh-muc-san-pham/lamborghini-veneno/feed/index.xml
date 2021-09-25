@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lamborghini veneno &#8211; My wordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/lamborghini-veneno/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lengockhoinguyen.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 25 Sep 2021 10:59:06 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Lamborghini Veneno</title>
+		<link>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-veneno/</link>
+					<comments>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-veneno/#respond</comments>
+		
+		<dc:creator><![CDATA[lengockhoinguyen]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 08:54:43 +0000</pubDate>
+				<guid isPermaLink="false">https://lengockhoinguyen.github.io/mywordpress/?post_type=product&#038;p=185</guid>
+
+					<description><![CDATA[<em><a href="https://tinbanxe.vn/lamborghini-veneno" target="_blank" rel="noopener">Lamborghini Veneno</a> trở nên đắt giá hơn bao giờ hết khi trên thế giới chỉ có đúng 12 chiếc, không kể 2 chiếc couple chạy thử nghiệm và trưng bày. 12 chiếc này chia thành 2 phiên bản, 9 chiếc Veneno Roadster và 3 chiếc couple Veneno. Ngay từ khi ra mắt những chiếc xe này đã làm những đại gia mê tốc độ trên thế giới phải mất ăn mất ngủ. Dưới đây là những đánh giá cụ thể của <a href="https://tinbanxe.vn/" target="_blank" rel="noopener">tin bán xe</a> về Lamborghini Veneno 2021.</em>]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Công suất : 544 kW</li>
+<li>Dung tích nguyên liệu : 85 &#8211; 90 |</li>
+<li>Tốc độ tối đa : 350 km/h</li>
+<li>Động cơ : 6,5 l V12</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-veneno/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

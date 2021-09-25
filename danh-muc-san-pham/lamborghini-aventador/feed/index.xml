@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lamborghini aventador &#8211; My wordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/lamborghini-aventador/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lengockhoinguyen.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 25 Sep 2021 11:14:35 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Lamborghini Aventador</title>
+		<link>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-aventador/</link>
+					<comments>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-aventador/#respond</comments>
+		
+		<dc:creator><![CDATA[lengockhoinguyen]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 05:33:12 +0000</pubDate>
+				<guid isPermaLink="false">https://lengockhoinguyen.github.io/mywordpress/?post_type=product&#038;p=151</guid>
+
+					<description><![CDATA[Lamborghini Aventador là dòng siêu xe thể thao động cơ đặt giữa (mid-engine sports car) được sản xuất bởi hãng xe Lamborghini, Ý. Ra mắt chính thức vào ngày 28 tháng 2 năm 2011 tại triển lãm Geneva Motor Show, chiếc xe với mã là LB834 được kỳ vọng thay thế cho chiếc Lamborghini Murciélago huyền thoại.]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>Công suất : 554 kW</li>
+<li><span class="GRkHZd w8qArf">Tốc độ tối đa : </span><span class="Eq0J8 LrzXr kno-fv">350 km/h</span></li>
+<li>Động cơ : 6,5 l V12</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-aventador/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

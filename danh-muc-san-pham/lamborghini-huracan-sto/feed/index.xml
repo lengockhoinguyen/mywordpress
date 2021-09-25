@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lamborghini huracan sto &#8211; My wordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/lamborghini-huracan-sto/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lengockhoinguyen.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 25 Sep 2021 10:25:56 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>LAMBORGHINI HURACAN STO</title>
+		<link>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-huracan-sto/</link>
+					<comments>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-huracan-sto/#respond</comments>
+		
+		<dc:creator><![CDATA[lengockhoinguyen]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 11:34:41 +0000</pubDate>
+				<guid isPermaLink="false">https://lengockhoinguyen.github.io/mywordpress/?post_type=product&#038;p=234</guid>
+
+					<description><![CDATA[<em>Thiết kế ngoại thất của chiếc siêu xe thể thao vô cùng bắt mắt. Những đường nét truyền thống của dòng xe Huracan vẫn được giữ nguyên vẹn. Tuy vậy, Huracan STO nay đã trở nên dữ dằn, nhiều khe và vây cá cũng như cánh gió đuôi cực lớn.</em>
+
+<em>Những chi tiết khác biệt phần ngoại thất như nắp cốp trước mới, mảng ốp thân trước và cản trước được thiết kế ăn liền thành một chứ không rời từng bộ phận. Nó gợi nhớ đến siêu xe Lamborghini Miura cũng như Sesto Elemento.</em>]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>động cơ V10 5.2L</li>
+<li>công suất 631 mã lực</li>
+<li>chỗ ngồi: 2</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-huracan-sto/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

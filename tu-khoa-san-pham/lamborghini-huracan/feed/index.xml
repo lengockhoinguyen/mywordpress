@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lamborghini huracan &#8211; My wordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/lamborghini-huracan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lengockhoinguyen.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 25 Sep 2021 11:10:34 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Lamborghini Huracan</title>
+		<link>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-huracan/</link>
+					<comments>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-huracan/#respond</comments>
+		
+		<dc:creator><![CDATA[lengockhoinguyen]]></dc:creator>
+		<pubDate>Fri, 24 Sep 2021 06:08:39 +0000</pubDate>
+				<guid isPermaLink="false">https://lengockhoinguyen.github.io/mywordpress/?post_type=product&#038;p=157</guid>
+
+					<description><![CDATA[<em>Ngay sau khi khai tử <a title="giá xe Lamborghini Gallardo" href="https://tinxe.vn/gia-xe-lamborghini-gallardo">Lamborghini Gallardo</a>, hãng siêu xe Ý bắt đầu cuộc chơi mới với Lamborghini Huracan LP610-4, mẫu xe này được trình làng lần đầu tiên tại triển lãm Geneva Auto Show vào tháng 3 năm 2014. Tổng số xe Lamborghini Huracan bán được trên thị trường trong vòng 5 năm đầu tiên đạt 14.022 xe, nhiều hơn tất cả dòng xe Lamborghini nào đã ghi dấu ấn trước đó.</em>]]></description>
+										<content:encoded><![CDATA[<ul>
+<li>610 mã lực</li>
+<li>Số tự động</li>
+<li>AWD &#8211; 4 bánh toàn thời gian</li>
+<li>đời 2014</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-huracan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
