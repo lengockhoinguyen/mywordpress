@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/lamborghini-aventador-s-roadster-2018/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lengockhoinguyen.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 25 Sep 2021 10:47:39 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 13:25:56 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>LAMBORGHINI AVENTADOR S ROADSTER 2018</title>
-		<link>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-aventador-s-roadster-2018/</link>
-					<comments>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-aventador-s-roadster-2018/#respond</comments>
+		<link>https://lengockhoinguyen.github.io/mywordpress/product/lamborghini-aventador-s-roadster-2018/</link>
+					<comments>https://lengockhoinguyen.github.io/mywordpress/product/lamborghini-aventador-s-roadster-2018/#respond</comments>
 		
 		<dc:creator><![CDATA[lengockhoinguyen]]></dc:creator>
 		<pubDate>Fri, 24 Sep 2021 11:22:18 +0000</pubDate>
@@ -36,7 +36,7 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://lengockhoinguyen.github.io/mywordpress/sản%20phẩm/lamborghini-aventador-s-roadster-2018/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lengockhoinguyen.github.io/mywordpress/product/lamborghini-aventador-s-roadster-2018/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
