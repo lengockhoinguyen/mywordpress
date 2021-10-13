@@ -3,7 +3,7 @@
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Đăng nhập &lsaquo; Nguyên Car &#8212; WordPress</title>
-	<meta name="robots" content="noindex, nofollow, noarchive">
+	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://lengockhoinguyen.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=5.8.1" type="text/css" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://lengockhoinguyen.github.io/mywordpress/wp-includes/css/buttons.min.css?ver=5.8.1" type="text/css" media="all">
@@ -94,7 +94,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 <script type="text/javascript" src="https://lengockhoinguyen.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"2876fea746"};
+var userProfileL10n = {"user_id":"0","nonce":"25c66b299a"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
